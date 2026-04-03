@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sofa Set
+* source:	https://sketchfab.com/3d-models/sofa-set-4230c38118dc41878ddf79ea06bac33c
+* author:	budakbina (https://sketchfab.com/budakbina)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sofa Set" (https://sketchfab.com/3d-models/sofa-set-4230c38118dc41878ddf79ea06bac33c) by budakbina (https://sketchfab.com/budakbina) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

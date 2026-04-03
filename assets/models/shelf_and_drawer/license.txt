@@ -1,0 +1,11 @@
+Model Information:
+* title:	Shelf and drawer
+* source:	https://sketchfab.com/3d-models/shelf-and-drawer-1f73ab4ef37d4c9aac6baa6e38f4120c
+* author:	patriciu (https://sketchfab.com/patriciu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Shelf and drawer" (https://sketchfab.com/3d-models/shelf-and-drawer-1f73ab4ef37d4c9aac6baa6e38f4120c) by patriciu (https://sketchfab.com/patriciu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
