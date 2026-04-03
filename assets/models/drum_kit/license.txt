@@ -1,0 +1,11 @@
+Model Information:
+* title:	Drum Kit
+* source:	https://sketchfab.com/3d-models/drum-kit-898f2f4ba1704abe9c784066e2b0f751
+* author:	art.katja (https://sketchfab.com/art.katja)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Drum Kit" (https://sketchfab.com/3d-models/drum-kit-898f2f4ba1704abe9c784066e2b0f751) by art.katja (https://sketchfab.com/art.katja) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

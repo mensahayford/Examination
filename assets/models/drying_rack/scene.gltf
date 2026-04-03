@@ -1,0 +1,502 @@
+{
+  "accessors": [
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2169,
+      "max": [
+        9.234604835510254,
+        11.654488563537598,
+        4.220065116882324
+      ],
+      "min": [
+        -9.526649475097656,
+        -0.0387578010559082,
+        -4.220064640045166
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 26028,
+      "componentType": 5126,
+      "count": 2169,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 2169,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2169,
+      "max": [
+        0.9955138564109802,
+        0.9972380995750427
+      ],
+      "min": [
+        0.005844205617904663,
+        0.00881969928741455
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 7176,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 8,
+      "max": [
+        1.0,
+        0.9999995827674866,
+        0.3064458668231964,
+        0.0,
+        0.0,
+        1.0,
+        7.847485505863006e-08,
+        0.0,
+        6.963685882510617e-05,
+        0.17262810468673706,
+        1.0,
+        0.0,
+        10.695670127868652,
+        7.072683811187744,
+        3.7152745723724365,
+        1.0
+      ],
+      "min": [
+        0.00038445345126092434,
+        0.0,
+        -0.17262813448905945,
+        0.0,
+        -0.9999999403953552,
+        0.000403885031118989,
+        -1.0057196675461455e-07,
+        0.0,
+        -0.00012376911763567477,
+        -0.3064456880092621,
+        0.9518879652023315,
+        0.0,
+        0.0,
+        -6.778617858886719,
+        -1.9922568798065186,
+        1.0
+      ],
+      "type": "MAT4"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5123,
+      "count": 2169,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 34704,
+      "componentType": 5126,
+      "count": 2169,
+      "max": [
+        1.0,
+        0.49803924560546875,
+        0.0,
+        0.0
+      ],
+      "min": [
+        0.501960813999176,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "type": "VEC4"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "StinkySkunk12 (https://sketchfab.com/Bearfnf)",
+      "license": "SKETCHFAB Standard (https://sketchfab.com/licenses)",
+      "source": "https://sketchfab.com/3d-models/animal-crossing-new-horizons-drying-rack-1eb3508712784bcfb60d14bb1f890ad4",
+      "title": "Animal Crossing New Horizons Drying Rack"
+    },
+    "generator": "Sketchfab-16.99.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 17352,
+      "byteStride": 8,
+      "name": "shortBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 28704,
+      "byteOffset": 17352,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 17352,
+      "byteOffset": 46056,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 52056,
+      "byteOffset": 63408,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 69408,
+      "byteOffset": 115464,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 512,
+      "byteOffset": 184872,
+      "name": "floatBufferViews"
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 185384,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/mReBody_baseColor.png"
+    },
+    {
+      "uri": "textures/mReBody_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/mReBody_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "mReBody",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Arm_low__mReBody_mReBody_0",
+      "primitives": [
+        {
+          "attributes": {
+            "JOINTS_0": 6,
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 3,
+            "TEXCOORD_2": 3,
+            "WEIGHTS_0": 7
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.02539999969303608,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.02539999969303608,
+        0.0,
+        0.0,
+        -0.02539999969303608,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "FtrClothesstand.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        6,
+        5
+      ],
+      "name": "Object_3"
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "_rootJoint"
+    },
+    {
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        6.123233995736766e-17,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        6.123233995736766e-17,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Object_5"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_6",
+      "skin": 0
+    },
+    {
+      "children": [
+        8
+      ],
+      "name": "Root_00"
+    },
+    {
+      "children": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "Wind_01",
+      "rotation": [
+        0.0,
+        0.0,
+        0.7071068286895752,
+        0.7071068286895752
+      ],
+      "translation": [
+        0.0,
+        7.898073196411133,
+        0.00037689926102757454
+      ]
+    },
+    {
+      "name": "Shirt1_02",
+      "rotation": [
+        1.3045383639109787e-05,
+        0.06439860165119171,
+        0.9979243278503418,
+        -0.00020154137746430933
+      ],
+      "translation": [
+        2.8000001907348633,
+        -6.5,
+        2.5532143115997314
+      ]
+    },
+    {
+      "name": "Shirt2_03",
+      "rotation": [
+        -3.1321302230935544e-05,
+        -0.15510010719299316,
+        0.9878987669944763,
+        -0.00019949889974668622
+      ],
+      "scale": [
+        1.0,
+        1.0000009536743164,
+        1.0
+      ],
+      "translation": [
+        2.8000001907348633,
+        -6.5,
+        0.0
+      ]
+    },
+    {
+      "name": "Shirt3_04",
+      "rotation": [
+        1.7452030078857206e-05,
+        0.0866282507777214,
+        0.9962406754493713,
+        -0.00020122769637964666
+      ],
+      "translation": [
+        2.8000001907348633,
+        -6.5,
+        -2.633092164993286
+      ]
+    },
+    {
+      "name": "Towel1_05",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        -0.00020205974578857422
+      ],
+      "translation": [
+        0.0,
+        5.39035177230835,
+        0.0
+      ]
+    },
+    {
+      "name": "Towel2_06",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        -0.00020205974578857422
+      ],
+      "translation": [
+        0.0,
+        7.075878620147705,
+        0.0
+      ]
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "skins": [
+    {
+      "inverseBindMatrices": 5,
+      "joints": [
+        4,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "skeleton": 4
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}

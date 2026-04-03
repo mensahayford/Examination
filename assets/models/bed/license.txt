@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low-Poly PSX Style Double Bed
+* source:	https://sketchfab.com/3d-models/low-poly-psx-style-double-bed-ddfe1fb523dc4352b2bef0670d146fee
+* author:	vanillao03 (https://sketchfab.com/kevinandst)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low-Poly PSX Style Double Bed" (https://sketchfab.com/3d-models/low-poly-psx-style-double-bed-ddfe1fb523dc4352b2bef0670d146fee) by vanillao03 (https://sketchfab.com/kevinandst) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
